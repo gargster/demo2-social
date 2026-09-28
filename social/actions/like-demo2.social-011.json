@@ -1,0 +1,9 @@
+{
+  "id": "like-demo2.social-011",
+  "type": "like",
+  "author": "ed25519:057d0301b3a6344d645bba5ddafead414d0428d14aba3ac3f670e6c768d159ce",
+  "created": "2026-09-28T04:36:58.412850Z",
+  "target": "post-demo3.social-010",
+  "targetHandle": "demo3.social",
+  "signature": "BidTW+Gfi7Q1BuSRCT1N471HbNGbF67GM6NG893POzkUxruQqLYpo5uQ31YTaWiSa5zu69niFw8uEsCnvTFhDg=="
+}
