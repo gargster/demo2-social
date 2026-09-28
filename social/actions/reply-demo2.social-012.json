@@ -1,0 +1,10 @@
+{
+  "id": "reply-demo2.social-012",
+  "type": "reply",
+  "author": "ed25519:057d0301b3a6344d645bba5ddafead414d0428d14aba3ac3f670e6c768d159ce",
+  "created": "2026-09-28T04:37:40.943897Z",
+  "content": "I agree",
+  "inReplyTo": "post-demo3.social-010",
+  "targetHandle": "demo3.social",
+  "signature": "d20niaCLJ8Gsm9wBYDJzjdUZFJZr9bLi+Q+8Ko5OVgRPobCEfCEs4W2hFUfWvp/v3rX2PmTHDM/pgG52L6iwAg=="
+}
