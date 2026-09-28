@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:057d0301b3a6344d645bba5ddafead414d0428d14aba3ac3f670e6c768d159ce",
   "handle": "demo2.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/demo2-social.git",
   "displayName": "Demo2",
   "bio": "Demo 2",
   "created": "2026-09-28T04:04:52.443431Z",
-  "signature": "EZZYMkFuBrqUszKq7J+jDXpUcfIzvBB0v4IIv/mkCIau0QD5EE4x8fsNWDMjzYqNBTtN/W9b91LXjRedluDTDQ=="
+  "signature": "pos6R5sNBOSgbzIrymoZaEgORHijtJON+4BT4S4kFYRH0E293TG1RaTY30mmiNMdXAF6TAX+QL2rr9RxNePwDg=="
 }
